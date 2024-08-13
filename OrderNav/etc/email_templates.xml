@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Mail/etc/email_templates.xsd">
+    <template id="nav_order_place" label="Nav Order Place" file="nav_order_place.html" type="html" module="Kitchen365_OrderNav" area="frontend"/>
+    <template id="nav_order_invoice" label="Nav Order Invoice" file="nav_order_invoice.html" type="html" module="Kitchen365_OrderNav" area="frontend"/>
+    <template id="nav_order_creditmemo" label="Nav Order Creditmemo" file="nav_order_creditmemo.html" type="html" module="Kitchen365_OrderNav" area="frontend"/>
+    <template id="nav_order_shipment" label="Nav Order Shipment" file="nav_order_shipment.html" type="html" module="Kitchen365_OrderNav" area="frontend"/>
+</config>
